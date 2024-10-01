@@ -1,0 +1,25 @@
+name: planets_data
+description: Data management for Planets App
+version: 0.1.0+1
+publish_to: none
+
+environment:
+  sdk: ^3.4.0
+  flutter: ^3.22.0
+
+dependencies:
+  dio: ^5.7.0
+  flutter:
+    sdk: flutter
+  injectable: ^2.4.4
+  get_it: ^7.7.0
+  http: ^1.2.2
+  dartz: ^0.10.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  mocktail: ^1.0.4
+  very_good_analysis: ^6.0.0
+  injectable_generator: ^2.6.2
+  build_runner: ^2.4.11

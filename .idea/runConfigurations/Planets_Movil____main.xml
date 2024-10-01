@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Planets Movil -&gt; main" type="FlutterRunConfigurationType" factoryName="Flutter">
+    <option name="buildFlavor" value="development" />
+    <option name="filePath" value="$PROJECT_DIR$/apps/planets_movil/lib/main.dart" />
+    <method v="2" />
+  </configuration>
+</component>

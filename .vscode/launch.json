@@ -1,0 +1,93 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "flutter_monorepo",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "planets_movil",
+            "cwd": "apps\\planets_movil",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "planets_movil (profile mode)",
+            "cwd": "apps\\planets_movil",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "planets_movil (release mode)",
+            "cwd": "apps\\planets_movil",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "planets_webs",
+            "cwd": "apps\\planets_webs",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "planets_webs (profile mode)",
+            "cwd": "apps\\planets_webs",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "planets_webs (release mode)",
+            "cwd": "apps\\planets_webs",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "planets_data",
+            "cwd": "packages\\planets_data",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "planets_data (profile mode)",
+            "cwd": "packages\\planets_data",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "planets_data (release mode)",
+            "cwd": "packages\\planets_data",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "planets_ui",
+            "cwd": "packages\\planets_ui",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "planets_ui (profile mode)",
+            "cwd": "packages\\planets_ui",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "planets_ui (release mode)",
+            "cwd": "packages\\planets_ui",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}

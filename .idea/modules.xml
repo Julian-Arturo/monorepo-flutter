@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/packages/planets_data/melos_planets_data.iml" filepath="$PROJECT_DIR$/packages/planets_data/melos_planets_data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apps/planets_movil/melos_planets_movil.iml" filepath="$PROJECT_DIR$/apps/planets_movil/melos_planets_movil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/planets_ui/melos_planets_ui.iml" filepath="$PROJECT_DIR$/packages/planets_ui/melos_planets_ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apps/planets_webs/melos_planets_webs.iml" filepath="$PROJECT_DIR$/apps/planets_webs/melos_planets_webs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/melos_flutter_monorepo.iml" filepath="$PROJECT_DIR$/melos_flutter_monorepo.iml" />
+    </modules>
+  </component>
+</project>
